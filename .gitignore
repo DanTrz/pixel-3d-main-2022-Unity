@@ -1,0 +1,14 @@
+# ========== Unity specific ==========
+[Ll]ibrary/
+AssetStoreTools*
+
+
+# ========== OS Generated ==========
+.DS_Store
+Thumbs.db
+
+# ========== Unity Collaborate ==========
+.collab/
+
+# ========== Crash Reports ==========
+sysinfo.txt
