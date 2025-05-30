@@ -51,5 +51,6 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "pixel-3d-main.sln"
+    "dotnet.defaultSolution": "pixel-3d-main.sln",
+    "dotnet.preferCSharpExtension": true
 }
